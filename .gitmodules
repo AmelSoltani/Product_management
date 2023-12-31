@@ -1,0 +1,3 @@
+[submodule "angular-frontend"]
+	path = angular-frontend
+	url = ./angular-frontend
